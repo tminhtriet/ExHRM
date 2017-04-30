@@ -1,2 +1,2 @@
 # ExHRM
-Software develop by lmtriet
+Software develop by tmtriet
